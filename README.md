@@ -57,4 +57,4 @@ once the minikube cluster is ready , you can view the kubeconfig file created by
 
 ![WSL terminal](images/pic6.png)
 
-### Awesome! You’ve successfully set up Kubernetes 🐳 and WSL 🐧 and connected them 🔗🎉. 
+### Awesome! You’ve successfully set up Kubernetes 🐳 and WSL 🐧 and connected them 🎉. 
